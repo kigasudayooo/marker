@@ -7,7 +7,7 @@ license = { text = "Apache-2.0" }
 authors = [
     { name = "Vik Paruchuri", email = "github@vikas.sh" },
 ]
-requires-python = ">=3.10,<4"
+requires-python = ">=3.14.9"
 keywords = ["pdf", "markdown", "ocr", "nlp"]
 dependencies = [
     "pillow>=10.1.0,<11",
